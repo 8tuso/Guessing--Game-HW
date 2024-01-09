@@ -1,0 +1,16 @@
+C:\Users\Talal\Desktop\VisualStudioProjects\HomeWork3\HomeWork3\bin\Debug\net6.0-windows\HomeWork3.exe
+C:\Users\Talal\Desktop\VisualStudioProjects\HomeWork3\HomeWork3\bin\Debug\net6.0-windows\HomeWork3.deps.json
+C:\Users\Talal\Desktop\VisualStudioProjects\HomeWork3\HomeWork3\bin\Debug\net6.0-windows\HomeWork3.runtimeconfig.json
+C:\Users\Talal\Desktop\VisualStudioProjects\HomeWork3\HomeWork3\bin\Debug\net6.0-windows\HomeWork3.dll
+C:\Users\Talal\Desktop\VisualStudioProjects\HomeWork3\HomeWork3\bin\Debug\net6.0-windows\HomeWork3.pdb
+C:\Users\Talal\Desktop\VisualStudioProjects\HomeWork3\HomeWork3\obj\Debug\net6.0-windows\HomeWork3.MainForm.resources
+C:\Users\Talal\Desktop\VisualStudioProjects\HomeWork3\HomeWork3\obj\Debug\net6.0-windows\HomeWork3.csproj.GenerateResource.cache
+C:\Users\Talal\Desktop\VisualStudioProjects\HomeWork3\HomeWork3\obj\Debug\net6.0-windows\HomeWork3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Talal\Desktop\VisualStudioProjects\HomeWork3\HomeWork3\obj\Debug\net6.0-windows\HomeWork3.AssemblyInfoInputs.cache
+C:\Users\Talal\Desktop\VisualStudioProjects\HomeWork3\HomeWork3\obj\Debug\net6.0-windows\HomeWork3.AssemblyInfo.cs
+C:\Users\Talal\Desktop\VisualStudioProjects\HomeWork3\HomeWork3\obj\Debug\net6.0-windows\HomeWork3.csproj.CoreCompileInputs.cache
+C:\Users\Talal\Desktop\VisualStudioProjects\HomeWork3\HomeWork3\obj\Debug\net6.0-windows\HomeWork3.dll
+C:\Users\Talal\Desktop\VisualStudioProjects\HomeWork3\HomeWork3\obj\Debug\net6.0-windows\refint\HomeWork3.dll
+C:\Users\Talal\Desktop\VisualStudioProjects\HomeWork3\HomeWork3\obj\Debug\net6.0-windows\HomeWork3.pdb
+C:\Users\Talal\Desktop\VisualStudioProjects\HomeWork3\HomeWork3\obj\Debug\net6.0-windows\HomeWork3.genruntimeconfig.cache
+C:\Users\Talal\Desktop\VisualStudioProjects\HomeWork3\HomeWork3\obj\Debug\net6.0-windows\ref\HomeWork3.dll
